@@ -1,4 +1,4 @@
-# Forbitswap 
+# forbitswap 
 
 [![Actions Status](https://github.com/Forbitswap/forbitswap-periphery/workflows/CI/badge.svg)](https://github.com/Forbitswap/forbitswap-periphery/actions)
 [![npm](https://img.shields.io/npm/v/@forbitswap/periphery?style=flat-square)](https://npmjs.com/package/@forbitswap/periphery)
